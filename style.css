@@ -51,7 +51,7 @@ body{
     margin-bottom: 0px;
 }
 .design{
-    background-image: url('/images/pattern-divider-desktop.svg');
+    background-image: url('images/pattern-divider-desktop.svg');
     width: 82%;
     height: 30px;
     margin-bottom: 0px;
@@ -99,6 +99,6 @@ footer{
     .design{
         width: 90%;
         height: 20px;
-        background-image: url('/images/pattern-divider-mobile.svg');
+        background-image: url('images/pattern-divider-mobile.svg');
     }
 }
